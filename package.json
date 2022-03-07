@@ -1,0 +1,23 @@
+{
+  "name": "demots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongndph13724/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongndph13724/typescript/issues"
+  },
+  "homepage": "https://github.com/phuongndph13724/typescript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
